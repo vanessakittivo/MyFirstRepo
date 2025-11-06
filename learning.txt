@@ -1,0 +1,5 @@
+My Git Learning Journey 
+ 
+So far I have learned how to use Git and GitHub to track my projects. 
+I can now create repositories, make commits, and push my code to GitHub. 
+It was challenging at first but now I'm getting the hang of it! 
